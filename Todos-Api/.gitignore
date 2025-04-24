@@ -2,6 +2,8 @@
 node_modules
 package-lock.json
 npm-shrinkwrap.json
+../express-navbar
+
 *.log
 *.gz
 
